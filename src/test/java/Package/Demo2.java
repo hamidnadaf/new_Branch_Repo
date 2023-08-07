@@ -11,7 +11,7 @@ public class Demo2 {
   driver.manage().window().maximize();
   driver.manage().deleteAllCookies();
   driver.get("https://web.telegram.org/k/");
-  Thread.sleep(3000);
+  Thread.sleep(5000);
   driver.close();
   }
 }
