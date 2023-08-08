@@ -5,6 +5,8 @@
     <classes>
       <class name="Package.Demo1"/>
       <class name="Package.Demo2"/>
+      <class name="Package.Demo3"/>
+
     </classes>
   </test> <!-- Test -->
 </suite> <!-- newbranch.xml -->
